@@ -1,1 +1,1 @@
-# CrestDiscordConnector
+Don't be a knob.
